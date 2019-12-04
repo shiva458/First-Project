@@ -1,2 +1,2 @@
-# First-Project
+# FirstProject
 Practice Project
